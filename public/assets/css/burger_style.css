@@ -1,0 +1,27 @@
+h1, h2, p, ul {
+	text-align: center;
+}
+
+img {
+    width: 300px;
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  background: ;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
