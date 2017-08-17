@@ -5,8 +5,8 @@
 
 ## The user has the option to create a burger.  After they have created the burger, they can devour it!
 
-## Requirements
-#### Create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM while following the MVC design pattern.  Use Node and MySQL to query and route data in the app and Handlebars to generate HTML.
+## App Explanation
+#### A burger is created using MySQL, Node, Express, Handlebars and a homemade ORM while following the MVC design pattern.  Node and MySQL are used to query and route the data while Handlebars generates the HTML.
 
 ## Technologies Used
 - NPM Packages
@@ -26,4 +26,4 @@
 
 ## Code Explanation
 
-Though this is a small application, there was a large amount of code required to make it work because this is an exercise that is laying the foundation for what larger scale applications will require.  The MVC design pattern was used in order to configure the project into an organized and manageable structure by separating the model, controllers, config files, static assets, among other things.  This was a great lesson into partitioning and connecting code and an excellent first step into constructing larger scale applications.   
+Though this is a small application, there was a large amount of code required to make it work because this is an exercise that is laying the foundation for what larger scale applications will require.  The MVC design pattern was used in order to configure the project into an organized and manageable structure by separating the model, controllers, config files, and static assets.  This was a great exercise to practice partitioning and connecting code and an excellent introduction to constructing larger scale applications.   
